@@ -35,24 +35,32 @@ I specialize in **backend development with Java + Spring Boot** and love solving
 
 | Project         | Description | Tech Stack |
 |-----------------|-------------|------------|
-| **HerbSphere** | Herbal info platform with chatbot, ML-trained on AYUSH datasets. | Java, Spring Boot, ML |
-| **LegalSeva** | E-marketplace design for legal service providers. | Java, Spring Boot, PostgreSQL |
-| **EventSync** | Hackathon leaderboard with real-time scoring & sentiment analysis. | Node.js, Express.js, PostgreSQL |
+| **HerbSphere** | Virtual Herbal Garden platform with a chatbot that fetches medicinal plant details using an ML model trained on AYUSH datasets. Includes a React.js frontend for plant cards and chatbot interface. | Java, Spring Boot, ML, React.js, PostgreSQL |
+| **LegalSeva** | E-marketplace design for onboarding legal service providers. Focused on incentive-based design, secure backend, and smooth user interface. | Java, Spring Boot, PostgreSQL, React.js, CSS |
+| **EventSync** | Hackathon leaderboard system enabling **real-time judge scoring**, **feedback visualization**, and **sentiment analysis** for participants. Interactive frontend built with React.js. | Node.js, Express.js, React.js, PostgreSQL |
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
+  <!-- Core Backend -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-1E90FF?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br/>
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-1E90FF?style=for-the-badge&logo=databricks&logoColor=white" />
   <br/>
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br/>
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
@@ -60,6 +68,7 @@ I specialize in **backend development with Java + Spring Boot** and love solving
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
   <img src="https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br/>
+  <!-- Concepts -->
   <img src="https://img.shields.io/badge/OOP-4682B4?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
